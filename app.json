@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Andama",
+    "slug": "HakiApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icons.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FF6347"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#FF6347"
+      },
+      "package": "com.denismnjima.HakiApp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3e8bd6f5-9a4f-46ec-8b4e-8ed90dd56ee6"
+      }
+    },
+    "owner": "denismnjima"
+  }
+}
